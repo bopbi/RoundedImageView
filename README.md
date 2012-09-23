@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
    Copyright Bobby Prabowo (@bopbi)
 
@@ -20,3 +21,9 @@
    http://www.youtube.com/watch?v=jF6Ad4GYjRU
    
  */
+=======
+RoundedImageView
+================
+
+This is an Example of an Rounded Image View based on Taming Android UI Eric Burke (@burke_eric) on "Taming Android UI". You can find this presentation on     http://www.youtube.com/watch?v=jF6Ad4GYjRU
+>>>>>>> a83c5e082239bb11db59e76531e71a8f437318f0
