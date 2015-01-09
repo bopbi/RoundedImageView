@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-/*
    Copyright Bobby Prabowo (@bopbi)
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,17 +11,9 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-   
-   === DISCLAIMER ===
-   
-   This is an Example of an Rounded Image View based on Taming Android UI Eric Burke 
-   (@burke_eric) on "Taming Android UI". You can find this presentation on 
-   http://www.youtube.com/watch?v=jF6Ad4GYjRU
-   
- */
-=======
-RoundedImageView
-================
 
-This is an Example of an Rounded Image View based on Taming Android UI Eric Burke (@burke_eric) on "Taming Android UI". You can find this presentation on     http://www.youtube.com/watch?v=jF6Ad4GYjRU
->>>>>>> a83c5e082239bb11db59e76531e71a8f437318f0
+   === DISCLAIMER ===
+
+   This is an Example of an Rounded Image View based on Taming Android UI Eric Burke
+   (@burke_eric) on "Taming Android UI". You can find this presentation on
+   http://www.youtube.com/watch?v=jF6Ad4GYjRU
